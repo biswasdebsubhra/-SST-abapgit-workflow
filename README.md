@@ -1,2 +1,2 @@
 # abapgit-workflow
-Repository for abapGit Workflow Tutorial
+Repository for Smartshift abapGit Workflow Tutorial
